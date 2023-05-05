@@ -1,2 +1,3 @@
 # A Trading Strategy using US Stock Data
-Code for designing a Algorithmic Trading Strategy using API
+Designing an algorithmic Trading Strategy to fetch US stock
+data using API and analyzing it.
