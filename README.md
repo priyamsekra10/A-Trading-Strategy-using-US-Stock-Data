@@ -1,2 +1,2 @@
-# Design-a-simple-Algorithmic-Trading-Strategy
-Code for designing a simple Algorithmic Trading Strategy
+# A Trading Strategy using US Stock Data
+Code for designing a Algorithmic Trading Strategy using API
